@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building practical AI tools and web applications<br>👯 Open to collaborating on Python, AI/ML, and web projects<br>🤝 Seeking guidance on ML research and time-series forecasting<br>🌱 Studying Computational Science and strengthening my ML foundations<br>
+🔭 Building practical AI tools and web applications<br>👯 Open to collaborating on Python, AI/ML, and web projects<br>🌱 Studying Computational Science and strengthening my ML foundations<br>
 
 
 ## 🌐 Socials:
